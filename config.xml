@@ -67,5 +67,5 @@
     <icon src="resources/ios/icon/icon-small@2x.png" width="58" height="58"/>
     <icon src="resources/ios/icon/icon-small@3x.png" width="87" height="87"/>
   </platform>
-  <icon src="resources\android\icon\drawable-xhdpi-icon.png" gap:platform="android"/>
+  <icon src="resources\android\icon\drawable-xhdpi-icon.png"/>
 </widget>
