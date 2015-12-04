@@ -50,7 +50,10 @@
     "org.apache.cordova.globalization"
   ],
   "cordovaPlatforms": [
-    "android",
+    {
+      "platform": "android",
+      "locator": "wp8"
+    },
     "ios"
   ]
 }
